@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Picture Downloader</string>
+    <string name="not_download">Картинка не загружена:(</string>
+</resources>
